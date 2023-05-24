@@ -1,0 +1,17 @@
+# Ignorar directorio node_modules
+node_modules/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de configuración sensibles
+config.js
+secrets.json
+
+# Ignorar archivos ocultos
+.*
+
+# Ignorar archivos y directorios específicos
+docker-compose.yml
+Dockerfile
+node_modules/
